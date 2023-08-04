@@ -25,7 +25,7 @@ Also, include
 
 
 
-> TFHE_PREFIX=/usr/local #the prefix where you installed tfhe
+> TFHE_PREFIX=/usr/local 
 > 
 > export C_INCLUDE_PATH=$C_INCLUDE_PATH:$TFHE_PREFIX/include
 > 
