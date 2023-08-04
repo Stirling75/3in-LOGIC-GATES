@@ -7,7 +7,9 @@ To install TFHE,
 
 
  > git clone --recurse-submodules --branch=master https://github.com/tfhe/tfhe.git
+> 
  > cd tfhe
+> 
  > mkdir build
  > cd build
  > cmake ../src
